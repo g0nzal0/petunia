@@ -18,19 +18,6 @@
         <tbody>
             <tr>
                 <td>Jhon</td>
-                <td>backend</td>
-            </tr>
-            <tr>
-                <td>Gonzalo</td>
-                <td>Frontend</td>
-            </tr>
-            <tr>
-                <td>Alexander</td>
-                <td>backend</td>
-            </tr>
-            <tr>
-                <td>Alfredo</td>
-                <td>Frontend</td>
             </tr>
         </tbody>
     </table>
